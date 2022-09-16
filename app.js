@@ -1,5 +1,5 @@
-const  express=require("express");
-const socket=require("socket.io");
+const express=require('express');
+const socket=require('socket.io');
 
 const app=express();   // Initialization and Making Server
 
